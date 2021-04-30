@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/70588329/116762302-5cda7d00-a9f0-11eb-8d9f-101e4e6616d1.png" width="300px" height="320px" align="left" alt="myoctocat">
 <p align="justify"> 
   Atualmente curso Análise e desenvolvimento de sistema e faço estágio na empresa <a href="https://atento.com/pb/">Atento</a>. <br>
-  Em busca constante de conhecimento, no momento estudando <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong><br>
+  Em busca constante de conhecimento, no momento estudando <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, 
   <strong>SQL</strong> e <strong>C#</strong>
 </p>
 
