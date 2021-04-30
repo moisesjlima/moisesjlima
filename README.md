@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moisesjorge" height="20" width="20"/></a>
-<a href="https://www.facebook.com/moises.jorge.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="moisesjorge" height="20" width="20" /></a>
-<a href="https://www.instagram.com/moises_jorgecl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="moisesjorge" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moisesjorge" height="20" width="20"/></a>
+<a href="https://www.facebook.com/moises.jorge.7/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="moisesjorge" height="20" width="20" /></a>
+<a href="https://www.instagram.com/moises_jorgecl/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="moisesjorge" height="20" width="20" /></a>
 </p>
