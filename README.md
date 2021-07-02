@@ -12,6 +12,5 @@ Atualmente curso Análise e Desenvolvimento de Sistema na <a href="https://www.f
 
 <p>
 <a href="https://www.instagram.com/moises_jorgecl/"><img src="instagram.png" alt="moisesjorge" height="26px" width="26px" align="center"/></a>
-<a href="https://www.instagram.com/moises_jorgecl/"><img src="facebook.png" alt="moisesjorge" height="26px" width="26px" align="center"/></a>
 <a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/"><img src="linkedin.png" alt="moisesjorge" height="26px" width="26px" align="center"/></a>
 </p>
