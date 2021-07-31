@@ -15,6 +15,6 @@ Atualmente curso Análise e Desenvolvimento de Sistema na <a href="https://www.f
 </p>
 <div>
   <a href="https://github.com/moisesjlima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesjlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesjlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="right"/>
 </div>
 
