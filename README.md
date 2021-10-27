@@ -18,7 +18,7 @@ Curso Análise e Desenvolvimento de Sistema na <a href="https://www.fecaf.com.br
 </p><br>
 
 <a href="https://github.com/moisesjlima"><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesjlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></a>
-<br>
+<br><br><br>
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/"><img align="left" alt="moisesjlima-LinkedIn" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
