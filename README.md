@@ -21,13 +21,7 @@ Curso Análise e Desenvolvimento de Sistema na <a href="https://www.fecaf.com.br
 <a href="https://github.com/moisesjlima"><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesjlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></a> </div>
 <br>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/"><img align="left" alt="moisesjlima-LinkedIn" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-
-<a href="https://www.instagram.com/moises_jorgecl/"><img align="left" alt="moisesjlima-Instagram" height="36" width="36" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /> </a> 
-
-<a href="https://www.facebook.com/moises.jorge.7/"><img align="left" alt="moisesjlima-Facebook" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> </a> </div>
-
-
-
-
+<div>
+<a href="https://www.instagram.com/moises_jorgecl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
