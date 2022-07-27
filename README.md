@@ -6,7 +6,7 @@
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621733581579.png" width="300px" height="320px" align="left" alt="myoctocat">
 <p align="justify"> 
 Tenho 22 anos, comecei a gostar da área de TI quando fiz meu primeiro curso de Montador e Reparador de Computadores no Senac e logo depois fiz de programação web onde fui introduzido ao HTML, CSS e um pouco de JS, onde começou a paixão por programar =) .<br><br>
-Atualmente curso Análise e Desenvolvimento de Sistema na <a href="https://www.fecaf.com.br/">FECAF</a> e faço estágio de RPA na empresa <a href="https://atento.com/pb/">Atento</a>, onde utilizo ferramenta low-code, C#, JavaScript e SQL. </p>
+Atualmente curso Análise e Desenvolvimento de Sistema na <a href="https://www.fecaf.com.br/">FECAF</a> e faço estágio na área de RPA na empresa <a href="https://atento.com/pb/">Atento</a>, onde utilizo ferramenta low-code, C#, JavaScript e SQL. </p>
   
 <p>Atualmente estudando e interessado nas tecnologias:   
 <img align="center" alt="moisesjlima-HTML" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
