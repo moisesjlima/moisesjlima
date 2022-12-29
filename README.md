@@ -1,4 +1,5 @@
 <!--**moisesjlima/moisesjlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--
 ## Hi There 👋
 
 <h4 align="left">Meu nome é Jorge, Moisés jorge, Como vai??</h4>
@@ -24,4 +25,4 @@ Atualmente curso Análise e Desenvolvimento de Sistema na <a href="https://www.f
 <div>
 <a href="https://www.instagram.com/moises_jorgecl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mois%C3%A9s-jorge-costa-lima-01581a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> -->
